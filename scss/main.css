@@ -8,4 +8,9 @@
 h1 {
   text-align: center;
 }
+
+img {
+  display: inline-block;
+  text-align: center;
+}
 /*# sourceMappingURL=main.css.map */
